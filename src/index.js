@@ -12,6 +12,13 @@ root.render(
   <StrictMode>
     <div className="App">
       <Weather />
+  <a
+            href="https://github.com/thandiwemasuku/reWeather"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            open-sourced on GitHub
+          </a>
     </div>
   </StrictMode>,
 );
